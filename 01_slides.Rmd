@@ -300,8 +300,7 @@ Every semester, graduate students around **the world** take an Empirical/Applied
 ---
 
 # M3: Prevent Loss of Knowledge  
-</br>
-.font120[
+.font140[
 - In each of the previous steps there was valuable new knowledge 
 - This knowledge is not usually disseminated  
   - End of semester report, or presentation that is not published. 
